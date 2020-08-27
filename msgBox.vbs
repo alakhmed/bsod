@@ -1,0 +1,1 @@
+x=msgbox("Trigger BSOD Now?", 4+32, "BSOD")
